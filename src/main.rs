@@ -1,3 +1,4 @@
+mod common;
 mod solution;
 
 use project_euler_data::rust_template;
