@@ -12,6 +12,7 @@ md-5 = "0.10.5"
 color-eyre = "0.6.2"
 thiserror = "1.0.37"
 eager = "0.1.0"
+itertools = "0.10.5"
 
 [build-dependencies]
 project-euler-data = { git = "https://github.com/salameme/project-euler-manager" }
